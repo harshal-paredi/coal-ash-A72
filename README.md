@@ -2,7 +2,6 @@
 
 A modern, full-stack marketplace platform connecting coal ash suppliers with buyers, built with React and FastAPI.
 
-![AshLink Logo](https://via.placeholder.com/800x200/667eea/ffffff?text=AshLink%20Coal%20Ash%20Marketplace)
 
 ## 🌟 Features
 
