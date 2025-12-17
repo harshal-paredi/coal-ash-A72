@@ -20,7 +20,7 @@ try {
 
     Write-Host "Step 4: Setting up remote origin..." -ForegroundColor Green
     git remote remove origin 2>$null
-    git remote add origin https://github.com/hadwaniravi009/coal_ash_marketplace.git
+    git remote add origin https://github.com/harshal-paredi/coal-ash-A72.git
     Write-Host ""
 
     Write-Host "Step 5: Pushing to GitHub..." -ForegroundColor Green
@@ -32,7 +32,7 @@ try {
     Write-Host "================================================================" -ForegroundColor Cyan
     Write-Host ""
     Write-Host "Your project has been pushed to:" -ForegroundColor Yellow
-    Write-Host "https://github.com/hadwaniravi009/coal_ash_marketplace" -ForegroundColor Blue
+    Write-Host "https://github.com/harshal-paredi/coal-ash-A72" -ForegroundColor Blue
     Write-Host ""
     Write-Host "Next steps:" -ForegroundColor Yellow
     Write-Host "1. Visit the GitHub repository" -ForegroundColor White
