@@ -67,7 +67,7 @@ A modern, full-stack marketplace platform connecting coal ash suppliers with buy
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/hadwaniravi009/coal_ash_marketplace.git
+   git clone https://github.com/harshal-paredi/coal_ash_marketplace.git
    cd coal_ash_marketplace
    ```
 
@@ -241,8 +241,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ravi Hadwani**
 
-- GitHub: [@hadwaniravi009](https://github.com/hadwaniravi009)
-- Email: hadwaniravi009@gmail.com
+- GitHub: [@harshal-paredi](https://github.com/harshal-paredi)
+- Email: harshal7110@gmail.com
 
 ## 🙏 Acknowledgments
 
