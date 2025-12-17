@@ -240,6 +240,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ravi Hadwani**
 
+- GitHub: [@hadwaniravi009](https://github.com/hadwaniravi009)
+- Email: hadwaniravi009@gmail.com
+
+**Harshal Paredi**
+
 - GitHub: [@harshal-paredi](https://github.com/harshal-paredi)
 - Email: harshal7110@gmail.com
 
